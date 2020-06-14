@@ -1,0 +1,23 @@
+{
+  "name": "play-lighthouse-example",
+  "version": "1.0.0",
+  "description": "playwright lighthouse example",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Abhinaba Ghosh",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^13.9.0",
+    "@types/jest": "^25.1.4",
+    "jest": "^25.5.4",
+    "jest-playwright-preset": "^0.2.3",
+    "playwright-lighthouse": "^1.0.1",
+    "ts-jest": "^25.5.1",
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "playwright": "^1.1.1"
+  }
+}
